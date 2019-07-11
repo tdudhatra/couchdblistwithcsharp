@@ -1,0 +1,11 @@
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\bin\Debug\netcoreapp2.2\CouchDbList.deps.json
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\bin\Debug\netcoreapp2.2\CouchDbList.runtimeconfig.json
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\bin\Debug\netcoreapp2.2\CouchDbList.runtimeconfig.dev.json
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\bin\Debug\netcoreapp2.2\CouchDbList.dll
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\bin\Debug\netcoreapp2.2\CouchDbList.pdb
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\obj\Debug\netcoreapp2.2\CouchDbList.csprojAssemblyReference.cache
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\obj\Debug\netcoreapp2.2\CouchDbList.csproj.CoreCompileInputs.cache
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\obj\Debug\netcoreapp2.2\CouchDbList.AssemblyInfoInputs.cache
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\obj\Debug\netcoreapp2.2\CouchDbList.AssemblyInfo.cs
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\obj\Debug\netcoreapp2.2\CouchDbList.dll
+E:\Tarun\Personal\Practice\CouchDB\CouchDbList\CouchDbList\obj\Debug\netcoreapp2.2\CouchDbList.pdb
